@@ -8,3 +8,4 @@ media
 *.bak
 
 .mypy_cache/
+mypy.ini
